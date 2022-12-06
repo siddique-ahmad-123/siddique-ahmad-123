@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddique Ahmad
 - 👀 I’m interested in Flutter and Competative Programming
-- 🌱 I’m currently learning Dsa and Flutter
+- 🌱 I’m currently learning Dsa and Flutter Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmadsiddique7073@gmail.com
 

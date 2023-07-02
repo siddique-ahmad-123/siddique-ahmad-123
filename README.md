@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddique Ahmad</h1>
-<h3 align="center">A ECE sophomore who loves Exploring new things..</h3>
+<h3 align="center">A ECE Undergrad who loves Exploring new things..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddique-ahmad-123&label=Profile%20views&color=0e75b6&style=flat" alt="siddique-ahmad-123" /> </p>
 
